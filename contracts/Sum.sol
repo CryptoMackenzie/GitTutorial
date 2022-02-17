@@ -1,3 +1,5 @@
 pragma solidity ^0.8.6;
 
-contract Test{}
+contract Test{
+    uint sum;
+}
